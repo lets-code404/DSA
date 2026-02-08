@@ -1,4 +1,4 @@
-//Leetcode Problem: 1502. Can Make Arithmetic Progression From Sequence
+//Leetcode Problem: 2485. Find the Pivot Integer
 
 #include <iostream>
 #include <cmath>
